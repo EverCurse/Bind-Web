@@ -173,3 +173,12 @@ http://ip/5000   访问WEB 界面 登录账户 eagle 密码 123456
 
 ![](https://github.com/1032231418/doc/blob/master/images/jiexi.png?raw=true)
 
+
+##开源捐献日志（感谢各位网友的支持）
+
+2017-12-18
+
+@爱笑的眼睛(qq:373213735)       捐献：168.00 元（人民币）
+
+
+
